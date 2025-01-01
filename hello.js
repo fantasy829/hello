@@ -1,2 +1,3 @@
 const name = "Ifeanyi"
-console.log("hello " + name);
+const age = 5
+console.log("hello " + name + " i am " + age " old");
